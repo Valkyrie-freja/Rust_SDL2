@@ -1,0 +1,7 @@
+aaa
+build = "build.rs"
+[package]
+build = "build.rs"
+build
+aaa
+vvhelllohelllohelllo
